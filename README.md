@@ -22,3 +22,11 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+|  |train_accuracy |test_accuracy |
+| ------ |------| ------ |
+| Q1 | 97.60% | 87.30%|
+| Q2 | 82.03% | 79.30%|
+| Q3 | 98.12% | 84.60%|
+| Q4 | 91.38% | 86.40%|
+| Q5 | 98.20% | 98.34%|
